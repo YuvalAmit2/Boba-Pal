@@ -10,7 +10,7 @@ public class Main {
    static File drinkDatabase = new File(System.getProperty("user.dir") + "//BobaJSON.txt");
    static int databaseLength = 0;
    public static void main(String[] args) throws Exception {
-      System.out.println("Hi there! What would you like in your boba? (enter \"done\" when you're done!");
+      System.out.println("Hi there! What would you like in your boba? (enter \"done\" when you're done!)");
       Scanner userInput = new Scanner(System.in);
       String keyword = userInput.nextLine();
       ArrayList<String> description = new ArrayList<String>();
