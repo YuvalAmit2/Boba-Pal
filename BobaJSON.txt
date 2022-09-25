@@ -1,0 +1,1944 @@
+\
+"name":"Uji Green Milk Tea with Tiramisu Foam\n$7.02",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Royal Ceylon Milk Tea with Tiramisu Foam\n$7.02",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Red Jade Milk Tea with Tiramisu Foam\n$7.02",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Roasted Oolong Milk Tea with Tiramisu Foam\n$7.02",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Osmanthus Oolong Tea with Cheese Foam\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Roasted Oolong Tea with Cheese Foam\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Golden Oolong Tea with Cheese Foam\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"White Peach Oolong Tea with Cheese Foam\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"High Mountain Green Tea with Cheese Foam\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Frothy Matcha Red Pu'er Tea\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Frothy Matcha Red Jade Black Tea\n$6.79",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Red Jade Milk Tea\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Royal Ceylon Milk Tea\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Uji Green Milk Tea\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Roasted Oolong Milk Tea\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Cocoa Special\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brown Sugar Milk Tea with Boba\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brulee Green Milk Tea with Oreo\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brulee Thai Milk Tea with Boba\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Creamio Milk Tea\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Bubble Milk Tea Creamio\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Strawberry Creamio\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Strawberry Green Tea\nStrawberry high-grade green tea.\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Super Lemon Tea\nComes with choice of style.\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Super Fruit Tea\nComes with choice of style.\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Orange Green Tea Slush\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Yo - Mango\n$7.67",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Fresh Grapefruit Slush\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Yo - Strawberry\n$7.67",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Cheezo Strawberry\n$7.67",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Cheezo Grape\n$7.67",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Cheezo Mango\n$7.67",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Lemon Yakult\nComes with choice of style.\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Strawberry Smoothie\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Cocoa Special\n$5.84",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brown Sugar Milk Tea with Boba\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brulee Green Milk Tea with Oreo\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Brulee Thai Milk Tea with Boba\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Creamio Milk Tea\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Bubble Milk Tea Creamio\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Strawberry Creamio\n$7.38",
+"selection4":"Tan-Cha Cupertino"
+},
+{
+"name":"Strawberry Green Tea\nStrawberry high-grade green tea.\n$7.08",
+"selection4":"Tan-Cha Cupertino"
+}
+{
+"name":"Longan Black Tea（金骏眉）\nOrganic Logan flavored black tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"4 Seasons Tea（四季春茶）\nOrganic four seasons green tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Ceylon Black Tea（正山小种）\nOrganic Ceylon black tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"White Peach Oolong Tea（白桃乌龙）\nOrganic white peach flavored oolong tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Jasmine Pekoe Green Tea（茉莉绿茶）\nOrganic jasmine flavored green tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Roasted Mountain Oolong Tea（武夷水仙）\nOrganic roasted mountain oolong tea, freshly extracted by tea maker.\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Rose Tie Guanyin Tea(玫瑰铁观音)\nOrganic rose flavored oolong tea, freshly extracted by tea maker(500cc)\n$4.55+",
+"selection1":"Ume Tea"
+},
+{
+"name":"3Q Milk Tea(奶茶三兄弟)\nCeylon black milk tea w/ coconut pudding, red bean & chewy brown sugar pearls.（700cc non dariy. ）\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Milk Tea with Pearl(珍珠奶茶)\nCeylon black milk tea w/ chewy brown sugar pearls.（500cc non dariy. ）\n$5.85+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Creme Brulee Milk Tea with Perl(厚蛋糕波波茶)\nRoasted mountain oolong milk tea w/ caramel brulee & brown sugar pearls. (500cc non dariy)\n$5.85+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Brown Sugar Pearl Milk Tea(黑糖波波脏脏茶)\nRoasted Mountain Oolong milk Tea w/ chewy brown sugar pearls.（500cc non dariy. ）\n$6.05+",
+"selection1":"Ume Tea"
+},
+{
+"name":"Black Milk Tea with Pearl and Taro（芋泥波波鲜奶茶）\nLongan black tea infused organic milk with handmade real taro and brown sugar pearl. A\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Oreo Brulee Pearl Milk Tea(奥利奥布蕾珍珠奶茶)\nRoasted mountain oolong milk tea w/ caramel brulee , crumbled oreos & brown sugar pearls. (700cc non dariy)\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Mega Milk Tea 奶茶吨吨桶\n$9.10",
+"selection1":"Ume Tea"
+},
+{
+"name":"Strawberry Matcha Milk Tea(雪顶抹茶莓莓)\nEmerald green matcha with fresh strawberry and matcha ice cream.\n$6.35",
+"selection1":"Ume Tea"
+},
+{
+"name":"Grape Tea with tea jelly(葡萄冻冻)\nFour season green tea w/ fresh grape & chewy tea jelly(700cc )\n$6.35",
+"selection1":"Ume Tea"
+},
+{
+"name":"Orange Green Tea(橙意满满)\nPremium jasmine green tea w/ real orange juice(700cc )\n$6.05",
+"selection1":"Ume Tea"
+},
+{
+"name":"Passion Fruit & Watermelon Green Tea 百香瓜瓜\nDaily fresh watermelon w/ premium jasmine green tea & passion fruit(700cc )\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Passion Fruit & Orange Green Tea with Aloe(百香金桔)\nPassion fruit jasmine green tea w/ kumquat (700cc )\n$6.05",
+"selection1":"Ume Tea"
+},
+{
+"name":"Passion Fruit Green Tea with Crystal Boba and Lychee Jelly(百香果双Q)\nPassion fruit jasmine green tea w/ crystal boba and lychee jelly(700cc )\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Grapefruit Green Tea(红柚连连)\nSignature grapefruit slush made w/ real grapefruit juice.(700cc )\n$6.35",
+"selection1":"Ume Tea"
+},
+{
+"name":"Strawberry Green Tea with Cheese top(芝芝莓莓)\nSignature strawberry slush made w/ fresh strawberry & handmade cheese foam on top (700cc)\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"Mega Fruit Combo Tea（好大一桶水果茶）\n$9.10",
+"selection1":"Ume Tea"
+},
+{
+"name":"Grape Green Tea with Cheese Top(芝芝多肉葡萄)\nSignature grape slush made w/ fresh grape & handmade cheese foam on top (700cc)\n$6.55",
+"selection1":"Ume Tea"
+},
+{
+"name":"non alcohol Heineken beer peach strawberry slush 桃气莓莓啤\n$7.05",
+"selection1":"Ume Tea"
+}
+{
+"name":"Combo 6 Value Pack for 2\nPop 5 Fried Combo (Popcorn Chicken, Mushroom, Fish Cake, Dry Bean Curd, Calamari Ball) + TWO 24oz Jasmine Green Tea (50% Sweet)\n$30.50",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Combo 3\nChopped Pork Over Rice + 24oz Jasmine Green Tea (50% Sweet)\n$15.99",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Combo 1\nPopcorn Chicken + 24oz Jasmine Green Tea (50% Sweet)\n$14.99+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Combo 2\nCrispy Chicken Steak + 24oz Jasmine Green Tea (50% Sweet)\n$14.75+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Combo 5\nBraised Pork Belly Bento + 24oz Jasmine Green Tea (50% Sweet)\n$20.99",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Wintermelon Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Iron Buddha Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Ceylon Black Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Roasted Oolong Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Mountain Jade Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Jasmine Green Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Roasted Barley Black Tea Brulee\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Chrysanthemum Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Ceylon Black Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Mountain Jade Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Iron Buddha Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Jasmine Green Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Roasted Oolong Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Dragon Well Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Roasted Barley Black Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Thai Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Earl Grey Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Japanese Matcha Green Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Old Fashion Winter Melon Tea/ Milk Tea (Non-Caffeinated)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Wintermelon Jade Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Cherry Chocolate Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Signature Lemon Black Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Wintermelon Lemon Tea (Non-Caffeinated)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Black Sugar Ceylon Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Black Sugar Oolong Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Black Sugar Jasmine Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Red Bean Tea/ Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Longan Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Ginger Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Green Apple Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Lychee Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Peach Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Mocha Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Strawberry Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Grape Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Taro Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Guava Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Green Bean Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Coffee Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Caramel Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Kiwi Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Vanilla Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Coconut Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Banana Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Honey Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Mango Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Almond Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Grapefruit Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Rose Green Tea\nNo Milk Option\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Yogurt Green Tea\nNo Milk Option\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Honeydew Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Sesame Milk Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Honey Green Tea\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Passion Fruit Green Tea\nNo Milk Option (Fruit Juice+Milk=Curds)\n$5.50+",
+"selection1":"Tea Era Cupertino"
+},
+{
+"name":"Thai Tea Smoothie\n$5.75+",
+"selection1":"Tea Era Cupertino"
+}
+{
+"name":"A8. Milk Tea with Salted Cheese\nRecommended.\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"A1. Hot Green Tea with Salted Cheese\nMedium.\n$6.75",
+"selection1":"Happy Lemon"
+},
+{
+"name":"A2. Hot Black Tea with Salted Cheese\nRecommended. Medium.\n$7.00+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"A2. Cold Black Tea with Salted Cheese\nRecommended.\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"A1. Cold Green Tea with Salted Cheese\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"A5. Milk Tea with Oreo and Tiramisu Salted Cheese\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"B1. Fresh Lemon Green Tea (Only Large size)\nRecommended.\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"B2. Fresh Lemon Black Tea (Only large size)\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"B3. Fresh Lemon Honey Green Tea (Only Large size)\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"C2. Freshly Squeezed Lemon Black Tea (Only Large size)\nRecommended.\n$7.50",
+"selection1":"Happy Lemon"
+},
+{
+"name":"C1. Freshly Squeezed Lemon Green Tea (Only large size)\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D2. Classic Milk Tea\nCold.\n$5.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D1. Boba Milk Tea\nCold.\n$6.25+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D4. Milk Green Tea\n$6.25+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D3. Oreo Milk Tea\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D5. Boba Milk Tea with Puff Cream\nRecommended. Cold.\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D10. Mango Orange Milk Tea (Only Large Size)\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"D6. Ube Milk Tea With Taro Puff Cream and Boba (Only Large size)\n$7.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E5. Black Tea\n$5.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E9. Grapefruit Green Tea\nCold large.\n$6.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E4. Jasmine Green Tea\nCold. (Large)\n$5.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E6. Honey Green Tea\n$5.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E1. Yakult Green Tea\n$6.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E10. Kumquat Lemon Green Tea\nRecommended. Comes with lychee jelly.\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E8. Passion Fruit Green Tea\n$6.25+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E3. Lemon Yakult with Aloe\n$6.50+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"E2. Grapefruit and Yakult\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"G6. Strawberry Black Tea\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"G5. Strawberry Green Tea\n$6.75+",
+"selection1":"Happy Lemon"
+},
+{
+"name":"S1 Fresh Passionfruit Mango Green Tea\nBest Seller\n$7.50+",
+"selection1":"Happy Lemon"
+}
+{
+"name":"#B1. Gpie Rice Plate雞排飯\nAuthentic Taiwanese Chicken Cutlet AKA GPIE with our house special minced pork rice,braised tea egg and two seasonal sides (seasonal sides may differ everyday)\n$18.70",
+"selection1":"Chick & Tea"
+},
+{
+"name":"F1 Tradition GPIE 傳統台式炸雞排\nChick & Tea uses local farm raised non-hormone fresh chicken hand butterfly and massages the chicken to maximize tenderness,after marinated in our secret sauce for 12 hours then batter with gluten-free tapioca starch and deep fried twice in low/high temperature to juicy and crispy perfection !\n$12.90",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D4. Strawberry Milk Tea(Green Tea)\n$5.90",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D1. Classic Milk Tea經典奶茶\nBlack, green or oolong tea.\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D6. Black Sugar Milk Tea(Black Tea)\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"D2 Jasmine Milk Tea 茉香奶綠\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"D3 Oolong Milk Tea 烏龍奶茶\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D12. Strawberry Black/ Green Tea\nBlack or Green Tea.\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D13. Peach Green/Black Tea\nBlack or Green Tea\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D10. Passion Fruit Green/ Balck Tea\nBlack or Green Tea.\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D15. Grapefruit Black/Green/Oolong Tea\nBlack, green or oolong tea.\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D11. Yogurt Tea\nBlack or green.\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D8. Roasted Oolong Tea\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D7. Taiwanese Black Tea\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D14. Fresh Lemon Tea\nBlack or green.\n$5.60",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D9. Jasmine Green Tea\n$5.40",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D24. Matcha Red Bean Milk Tea\n$6.30",
+"selection1":"Chick & Tea"
+},
+{
+"name":"#D26. Passion Fruit Tea with Pearl and Jelly\nBlack or green.\n$6.30",
+"selection1":"Chick & Tea"
+}
+{
+"name":"D2. Jasmine Tea Cold Brew\n$4.75",
+"selection1":"Truedan Cupertino"
+},
+{
+"name":"D1. Black Tea with Roasted Buckwheat\n$4.50",
+"selection1":"Truedan Cupertino"
+},
+{
+"name":"E1. Black Tea Latte with Crema\n$6.00",
+"selection1":"Truedan Cupertino"
+},
+{
+"name":"E2. Jasmine Green Tea Latte with Crema\n$6.00",
+"selection1":"Truedan Cupertino"
+},
+{
+"name":"E3. Thai Tea Latte with Brown Sugar Boba\n$7.00",
+"selection1":"Truedan Cupertino"
+},
+{
+"name":"S1. Jasmine Tea Latte with Brown Sugar & Fresh Taro\n$7.00",
+"selection1":"Truedan Cupertino"
+}
+{
+"name":"Jasmine Green Tea\n$5.50",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Lychee Green Tea\n$6.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Strawberry Green Tea\n$6.25",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Espresso Milk Tea\nYin yang.\n$6.25",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Passionfruit Green Tea\n$6.25",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Ceylon Black Tea\n$5.50",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Mango Green Tea\n$6.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Guava Green Tea\n$6.25",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Peach Green Tea\n$6.25",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Almond Milk Tea\n$6.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Thai Milk Tea\n$5.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Roasted Oolong Milk Tea\n$6.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Fresh Grapefruit Green Tea\n$6.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Honey Lime Green Tea\n$6.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Okinawa Milk Tea with Grass Jelly\n$6.50",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Muddy Okinawa\nOkinawa Brown Sugar with Milk tea. whipped cream & oreo cookies on the top\n$7.50",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Espresso Milk Tea\n$6.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Almond Milk Tea\n$5.75",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Jasmine Green Tea\n$5.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Ceylon Black Tea\n$5.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Roasted Oolong Milk Tea\n$6.00",
+"selection1":"Fantasia Coffee & Tea"
+},
+{
+"name":"Hot Okinawa Milk Tea with Grass Jelly\n$6.00",
+"selection1":"Fantasia Coffee & Tea"
+}
+{
+"name":"Ginger Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Kiwi Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Blueberry Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Grape Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Pineapple Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Lavender Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Mango Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Peppermint Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Lychee Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Tangerine Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Puer Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Strawberry Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Rose Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Honey Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Peach Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Lemon Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Jasmine Green Flavored Tea\n$3.25+",
+"selection1":"Tea Era"
+},
+{
+"name":"Green Apple Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Green Bean Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Roasted Oolong Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Iron Buddha Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Dark Plum Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Passion Fruit Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Red Bean Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Roasted Barley Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Honey Longan Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Ceylon Black Flavored Tea\n$3.25+",
+"selection1":"Tea Era"
+},
+{
+"name":"Winter Melon Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Red Guava Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"White Green Flavored Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Jasmine Milk Tea\n$3.25+",
+"selection1":"Tea Era"
+},
+{
+"name":"Banana Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Pudding Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Coconut Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Hazelnut Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Strawberry Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Vanilla Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Puer Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Ceylon Milk Tea\n$3.25+",
+"selection1":"Tea Era"
+},
+{
+"name":"Rose Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Almond Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Sesame Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Mocha Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Coffee Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Honey Milk Tea\nIced drink only.\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Thai Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Caramel Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Taro Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Chocolate Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Iron Buddha Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Roasted Oolong Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Green Bean Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Wheat Germ Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Green Appple Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Roast Barley Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"White Green Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Earl Grey Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Gen Mai Milk Tea\nRoasted brown rice.\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Japanese Green Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Red Bean Milk Tea\n$3.75+",
+"selection1":"Tea Era"
+},
+{
+"name":"Puer Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+},
+{
+"name":"Ceylon Black Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+},
+{
+"name":"Jasmine Green Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+},
+{
+"name":"Roasted Oolong Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+},
+{
+"name":"Iron Buddha Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+},
+{
+"name":"White Green Tea Snowfall\n$4.50",
+"selection1":"Tea Era"
+}
+{
+"name":"Grapefruit Mojito Green Tea\n$7.50",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Pineapple Green Tea with Basil Seed\n$6.90",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Mr. Sun Green Tea with Heineken\nMust be 21 to purchase. Cold drink only. Comes with non-alcoholic Heineken beer.\n$7.50",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Mango Green Tea with Crystal Ball & Mango Boba\n$6.90",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Passion Fruit Green Tea with Boba & Coconut Jelly\n$7.20",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Mango Boba Milk Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Strawberry Boba Milk Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Golden Brown Sugar Boba Milk Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Panda Milk Tea with Crystal Ball & Boba\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"QQ Milk Tea with Coconut Jelly & Boba\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Three Brothers Milk Tea with Boba, Pudding & Grass Jelly\nComes with boba, pudding & grass jelly.\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Rainbow Boba Milk Tea with 3 Flavors of Boba\nComes with strawberry, mango & brown sugar boba.\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Grass Jelly Milk Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Coconut Jelly Milk Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Crystal Ball Milk Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Caramel Pudding Milk Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Red Bean Oatmeal Milk Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Cheese Milk Foam with Oolong Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Mango Cheese Milk Foam with Green Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Sweet Cloud Milk Foam with Green Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Strawberry Cheese Milk Foam with Oolong Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Sweet Cloud Milk Foam with Black Tea\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Peach Sweet Cloud Milk Foam with Green Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Angel Caramel Milk Tea\n(If no sugar is selected, no caramel included)\n$6.05",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Jasmine Green Milk Tea\n$5.75",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Osmanthus Oolong Milk Tea\n$5.75",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Royal Earl Grey Milk Tea\n$5.75",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Rose Black Tea Latte\n$6.90",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Osmanthus Oolong Tea Latte\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Royal Earl Grey Tea Latte\n$6.35",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Uji Matcha Green Tea Latte\n$6.90",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Chocolate Cocoa Latte\n$6.90",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Jasmine Green Tea\n$5.20",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Mango Green Tea\n$6.05",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Pineapple Black Tea\n$6.05",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Honey Jasmine Green Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Passion Fruit Green Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Alishan Osmanthus Oolong Tea\n$5.20",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Peach Jasmine Green Tea\n$6.65",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Royal Earl Grey Black Tea\n$5.20",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Black Tea Lemonade with Whole Lemon\n$6.05",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Ginger Tea with Brown Sugar\n$6.05",
+"selection1":"Mr. Sun"
+},
+{
+"name":"Royal Earl Grey Tea Latte\n$6.35",
+"selection1":"Mr. Sun"
+}
+{
+"name":"Regular Milk Foam Tea\n$4.75+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Strawberry Milk Tea\nBlack milk tea with strawberry puree.\n$5.50+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Pearl Milk Tea\nMilk Tea With Pearls\n$4.75+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Earl Grey Milk Tea with 3J\nEarly grey milk tea with pearls, pudding, and herbal jelly. Cold drink only.\n$5.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Premium Milk Tea\n$4.50+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Matcha Milk Tea\n$5.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Royal Thai Tea\nContains fresh milk.\n$5.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Panda Milk Tea\nMade with black and white pearls.\n$5.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Brown Sugar Milk Tea\n$4.75+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Honey Green Tea\n$4.50+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Taro Milk Tea\n$5.00+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Lychee Oolong Tea\n$4.50+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Mango Green Tea\n$4.50+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Ice Cream Black Tea\n$5.00+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"QQ Passion Fruit Green Tea\nCoconut jelly and pearl.\n$5.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Premium Brewed Tea\n$4.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Wintermelon Drink\nKid friendly drink (non-caffeinated).\n$4.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Longan Honey Drink\nKid friendly drink (non-caffeinated).\n$4.25+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Brown Sugar Fresh Milk Tea\n$4.75+",
+"selection1":"Gong Cha - Milpitas"
+},
+{
+"name":"Earl Grey Fresh Milk Tea\n$4.50+",
+"selection1":"Gong Cha - Milpitas"
+}
+{
+"name":"Strawberry Earl Grey Milk Tea with Pearls\n$7.15+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Brown Sugar London Fog Milk Tea\nNo topping included.\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Creme Brulee Strawberry Milk Tea\n$6.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Creme Brulee Earl Grey Tea\n$6.25+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Creme Brulee Matcha Milk Tea with Pearl\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Oolong Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Green Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Black Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Earl Grey Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Brown Sugar Black Tea\nFixed sweetness.\n$6.60+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Milk Foam Brown Sugar Oolong Tea\nFixed sweetness.\n$6.85+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Oolong Milk Tea\nMild tea with rich and sweet taste with moderate acidity. tea that everyone enjoys.\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Pearl Milk Tea\nPearls included.\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Green Milk Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Taro Milk Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Strawberry Milk Tea\n$6.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Panda Milk Tea\nMade with black and white pearls.\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Black Milk Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Coffee Milk Tea\n$6.25+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Brown Sugar Milk Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Earl Grey Milk Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Royal Thai Iced Tea\nFixed sweetness.\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Matcha Milk Tea with Pearl\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Earl Grey Milk Tea with 3J\n3J: pearl, pudding and herbal jelly.\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Lychee Green MT with Pearls\n$6.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Lychee Passionfruit GT\n$7.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Passionfruit GT with 3Q\n$7.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Mango Green Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Honey Green Tea\nFixed sweetness.\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Lychee Oolong Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"QQ Passionfruit Green Tea\nCoconut jelly and pearl.\n$6.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Ice Cream Black Tea\n$6.25+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Brown Sugar Fresh Milk Tea\n$6.00+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Earl Grey Fresh Milk Tea\n$5.75+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Oolong Tea\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Green Tea\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Black Tea\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Earl Grey Tea\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Wintermelon Oolong Tea\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Longan Honey Drink\nKid friendly drink (non-caffeinated).\n$5.50+",
+"selection1":"Gong Cha"
+},
+{
+"name":"Wintermelon Drink\nKid friendly drink (non-caffeinated).\n$5.50+",
+"selection1":"Gong Cha"
+}
+{
+"name":"6. Blackcurrant Tea\nWhite pearls and blackcurrant tea (berry flavor).\n$5.25",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"11. Peach Oolong Tea\nPeach bits, peach puree, and jinshuan oolong tea.\n$5.25",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"12. Lychee Oolong Tea\nLychee jelly, lychee puree + jinshuan oolong tea.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"10. Hong Kong Lemon Tea\nEarl grey black tea and lemon slices.\n$5.00",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"9. Purple Butterfly Lemon Green Tea\nWhite pearls, butterfly pea flower, jasmine green tea and fresh lemon juice.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"13. Yummi Cheese Tea\nOur own version of cheese! very vanilla-based.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"19. Jasmine Green Tea\n$5.00",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"8. Jinshuan Oolong Tea\n$5.00",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"16. Matcha Milk Tea\nMatcha green tea and fresh milk.\n$5.25",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"17. England Milk Tea\nEgg pudding, earl grey black tea and non-dairy creamer.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"18. Oolong Milk Tea\nJinshuan oolong tea and non-dairy creamer.\n$5.25",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"15. Yummi Earl Grey Milk Tea\nEarl grey black tea and fresh milk.\n$5.25",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"14. Blue Butterfly Green Milk Tea\nBlack pearls, butterfly pea flower, jasmine green tea and non-dairy creamer.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+},
+{
+"name":"20. Milk Tea with Taro Pleces\nWe use real taro.\n$5.75",
+"selection1":"Yummi Tea Cafe"
+}
+{
+"name":"Thai Tea Latte\nThai tea topped with organic half & half and brown sugar boba.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"House Black Tea Latte\nPremium black tea with in-house made creama and brown sugar boba.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Butterfly Coco-Milk Tea\nButterfly pea tea, house made coconut milk, organic milk, coconut jelly.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Iced Coffee Milk Tea\nWrecking Ball Ethiopian blend iced coffee, brown sugar boba, creama.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Crystal Butterfly\nRefreshing lemonade infused with butterfly pea tea layered on seltzer water with lemon slices and aloe vera jelly.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Honey Lemon Lime\nLemon fruit tea, fresh lime juice, salted cream cheese, lychee jelly.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Hong Kong Red\nJasmine green tea with condensed milk, house made coconut milk, and red bean.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"RWB Latte\nRed white and blue. House made strawberry puree, organic milk, topped with butterfly pea tea.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Uji Matcha Latte\nPremium matcha tea, brown sugar syrup, organic milk, and brown sugar boba.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Peach Please!\nPeach oolong tea, organic milk, creama, egg pudding.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Black Sugar Pearl\nPremium black tea, organic milk, brown sugar syrup, brown sugar boba.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Mango Milk\nHouse made mango puree with organic milk.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Mango Matcha Latte\nPremium matcha, organic milk, house made mango puree.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Strawberry Horchata\nHouse made strawberry puree, horchata milk, cinnamon.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Black Sesame Milk\nOrganic milk blended with house black sesame paste.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Creme Brulee Milk\nHouse made creme brulee, brown sugar syrup, organic milk, brown sugar boba.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Strawberry Matcha Latte\nPremium matcha, organic milk, house made strawberry puree.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Taro Milk\nFresh taro milk with real taro chunks.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Strawberry Milk\nHouse made strawberry puree with organic milk.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Jade Green Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Assam Black Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Roasted Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Matcha Green Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Jasmine Green Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Peach Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Grape Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"House Black Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Golden Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Osmanthus Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Rose TGY Oolong Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Earl Grey Black Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Rooibos Non-Caffeinated Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Lemon Fruit Non-Caffeinated Tea\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Hibiscus lychee 🌺\nHibiscus tea with lychee jelly and lychee syrup\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Strawberry Raspberry\nStrawberry raspberry tea, strawberry popping boba, house made creama.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Berry Coconut\nStrawberry raspberry tea, coconut milk, bits of fresh raspberry.\n$6.00",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+},
+{
+"name":"Matcha Espresso Latte\nPremium matcha tea, espresso, honey, almond milk.\n$5.50",
+"selection1":"Te'Amo Boba Tea x Mochi Donut ( El Camino Real)"
+}
+{
+"name":"Strawberry Tea\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Mango Green Tea\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Tropical Fruit Tea\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Mango and Passion Fruit Tea\n$5.85",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Passion Fruit, Orange and Grapefruit Tea\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Peach Tea with Aiyu Jelly\n$5.75",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Kiwi Fruit Tea with Aiyu Jelly\n$5.85",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Peach Kiwi Tea with Aiyu Jelly\n$5.85",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Hawaii Fruit Tea with Aiyu Jelly\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Honey Lemonade with Aloe Vera\nNon-caffeinated.\n$5.85",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Wintermelon Lemonade\nNon-caffeinated.\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Honey Milk Tea\n$5.25",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Coffee Milk Tea\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Ginger Milk Tea\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Milk Tea\n$5.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Hokkaido Pearl Milk Tea\nCaramel toffee.\n$5.95",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Taro Pearl Milk Tea\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Mango Green Milk Tea\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Thai Pearl Milk Tea\n$6.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Pearl Milk Tea\n$5.75",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Okinawa Pearl Milk Tea\nRoasted brown sugar.\n$5.95",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"QQ Happy Family Milk Tea\n$6.25",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Matcha Red Bean Milk Tea\n$6.25",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Coffee\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Fresh Milk Tea\n$5.50",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Wintermelon Tea\nNon-caffeinated.\n$5.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Ginger Tea\nDifferent preparation is available.\n$5.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Green Tea\nDifferent preparation is available.\n$4.75",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Black Tea\nDifferent preparation is available.\n$4.75",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Classic Oolong Tea\nDifferent preparation is available.\n$4.75",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Honey Green Tea\nDifferent preparation is available.\n$5.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Honey Black Tea\nDifferent preparation is available.\n$5.00",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Thai Tea Ice Blended with Pearl\n$6.95",
+"selection1":"Sharetea (Sunnyvale)"
+},
+{
+"name":"Peach Tea Ice Blended with Lychee Jelly\nIce cream at bottom\n$6.95",
+"selection1":"Sharetea (Sunnyvale)"
+}
+{
+"name":"Thai - Tea Whitties\nPremium green thai tea splashed with pekoe milk cream. Topped with milk pudding and sea salt crema. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Tmt\nJasmine green tea fused with taro and pekoe milk cream. Topped with honey black pearls. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Just Dew It\nPekoe jasmine green tea infused with honeydew and pekoe milk cream. Topped with grass jelly. For any sub or adjustment please note it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Gold Mine\nGolden jasmine milk tea infused with golden brown sugar. Topped with golden brown agar nuggets. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Brass Monkey\nJasmine green tea fused with banana and brown sugar. Topped with silky black grass jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Pretty in Pink\nJasmine green tea fused with strawberry and pekoe milk cream. Topped with honey black pearls and strawberry heart jellies. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Pina Colada\nJasmine green milk tea fused with pineapple and coconut. Topped with white pearls.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Thai Me Up\nPremium strong brewed Thai tea splashed with pekoe milk cream. Topped with honey black pearls. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Jmt\nGolden jasmine milk tea infused with golden brown sugar. Complimented with honey black pearls.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Yung Mung-Y\nA fresh jasmine tea blended with natural mung bean. Paired with a delicious green coconut pudding.\n$7.75",
+"selection1":"Peko
+},
+{
+"name":"Sweet Geezus\nJasmine green tea infused with strawberry, coconut and pekoe milk cream. Topped with milk pudding.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Foxy Brown\nAward winning assam milk tea fused with organic demerara, turbinado and golden brown sugar. Topped with honey black pearls. For any sub or adjustment please note it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"White Winter\nJasmine silver tips splashed with pekoe milk cream and wintermelon. Topped with aloe vera and agar pearls. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Pekoe Special\nHouse blended earl grey with pekoe milk cream. Topped with honey black pearls and silky grass jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Cool Cumber\nJasmine blossom tea infused with sliced cucumber. Topped with basil seeds.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Mk Twist\nGreen oolong tea splashed with mango and kumquat juice. Topped with mango jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Pineapple Express\nCold brewed black tea infused with pineapple and lychee. Topped with white pearls.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Raspberry Beret\nCold brewed black tea infused with raspberry and a hint of peach. Topped with white agar pearls. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Miami Vice\nJasmine green tea fused with strawberry and coconut. Topped with strawberry hearts and pineapple jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Angela\nJasmine white blossom tea fused with winter melon. Topped with aloe vera and agar white pearls. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Manly Melons\nJasmine green tea fused with mango, lychee, strawberry and watermelon. Topped with white agar pearls and aloe vera. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Mario and Lui-Ychee\nAn exotic lychee infused tea complimented by organic and fresh lychee bits.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"PomStar\nGreen oolong tea infused with pomegranate and exotic melons. Topped with mango stars and aloe vera. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Emerald\nJasmine green tea fused with honeydew and lychee. Topped with lychee jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Yellow Mango\nJasmine dragon tea with yellow mango puree. Topped with mango stars. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Kawaii\nJasmine green tea fused with red guava, mango and passion. Topped with mango stars. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Melrose\n$7.75",
+"selection1":"Pekoe"
+},
+{
+"name":"Go Nuts\nJasmine silver tips fused with mango and coconut. Topped with mango stars and coconut jelly. For any sub or adjustment pleas not it in the extra instructions field.\n$7.75",
+"selection1":"Pekoe"
+}
